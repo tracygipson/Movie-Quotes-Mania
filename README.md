@@ -1,7 +1,10 @@
 # Movie-Quotes-Mania
 
-[![N|Sold](https://i.imgur.com/c5ZTo2F.png)](https://docs.google.com/presentation/d/1MbFExhRrGhjwc14u7umQN0x6wdgZHO6wMw_sa-Md3TY/edit?usp=sharing)
+[![Tracy Movie Quotes Mania](https://i.imgur.com/c5ZTo2F.png)](https://docs.google.com/presentation/d/1MbFExhRrGhjwc14u7umQN0x6wdgZHO6wMw_sa-Md3TY/edit?usp=sharing)
 <br>
+Join this channel for any queries and stay updated with the latest tech.
+https://discord.gg/TS67XD8
+
 Movie Quotes Mania is website to access all the popular movie quotes with images
 ## Content
   - Logo/Wordmark
@@ -15,7 +18,7 @@ https://en.wikipedia.org/wiki/AFI's_100_Years...100_Movie_Quotes
 Start by creating a textdocument and save it as index.html (index.html is preferred as default home page of a website)
 Include the basic html structure:
 
-``` sh
+``` html
 <!DOCTYPE html>
 <html>
 <head>
@@ -57,3 +60,5 @@ When finished it would look like this!
 - Do they have any unique attributes?
 - Play around with them in CodePen(Create your own pens or fork this -> https://codepen.io/tracygipson/pen/VqQmvY )
 - Try adding some to your own website
+
+See You Tomorrow with CSS, Adios!
